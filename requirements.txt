@@ -1,0 +1,8 @@
+tensorflow
+fim-python
+meshio
+matplotlib
+pyvista
+panel
+jupyter_bokeh
+pydoe
